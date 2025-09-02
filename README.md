@@ -31,8 +31,8 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 
 ## Grading
 
-- In-class Presentation (30%), including the target paper only:
-  - Clearly organize the material and present the problem definition, motivation, and methodology appropriately. (20%)
+- In-class Presentation (30%), including one target paper only:
+  - Clearly organize the material and present the problem definition, motivation, methodology, and evaluation appropriately. (20%)
   - Can answer the questions from the lecturers and other students appropriately. (5%)
   - Submit short feedback for all the other presentation sessions under the same category. (5%)
   - (Other student feedback determines 70% of the grades for this part.)
