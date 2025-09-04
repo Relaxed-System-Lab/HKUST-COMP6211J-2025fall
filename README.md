@@ -15,7 +15,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 
 | Date | Topic |
 |-----|------|
-| W1 - 09/02, 09/04  | - Introduction and Logistics  <br> - Stochastic Gradient Descent |
+| W1 - 09/02, 09/04  | - Introduction and Logistics [Slides](https://github.com/Relaxed-System-Lab/HKUST-COMP6211J-2025fall/blob/main/slides/Lecture%201%20-%20Introduction%20and%20Logistics.pdf)  <br> - Stochastic Gradient Descent [Slides](https://github.com/Relaxed-System-Lab/HKUST-COMP6211J-2025fall/blob/main/slides/Lecture%202%20-%20Stochastic%20Gradient%20Descent.pdf) |
 | W2 - 09/09, 09/11  | - Auto-Differentiation   <br> -  Nvidia GPU Computation and Communication |
 | W3 – 09/16, 09/18  | - LLM Pretraining <br> - Data-, Pipeline-, Optimizer- Parallelism |
 | W4 - 09/23, 09/25  | - Tensor Model-, Sequence-, MoE- Parallelism <br> - Generative Inference Introduction   |
