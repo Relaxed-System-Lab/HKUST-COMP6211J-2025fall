@@ -413,6 +413,13 @@
   journal={arXiv preprint arXiv:2506.17811},
   year={2025}
 }
+
+@article{xu2025qwen2,
+  title={Qwen2. 5-omni technical report},
+  author={Xu, Jin and Guo, Zhifang and He, Jinzheng and Hu, Hangrui and He, Ting and Bai, Shuai and Chen, Keqin and Wang, Jialin and Fan, Yang and Dang, Kai and others},
+  journal={arXiv preprint arXiv:2503.20215},
+  year={2025}
+}
 ```
 
 ### Topic 14. Image- Video- Generation and Acceleration.
@@ -443,6 +450,12 @@
   author={Yang, Shuo and Xi, Haocheng and Zhao, Yilong and Li, Muyang and Zhang, Jintao and Cai, Han and Lin, Yujun and Li, Xiuyu and Xu, Chenfeng and Peng, Kelly and others},
   journal={arXiv preprint arXiv:2505.18875},
   year={2025}
+}
+
+@inproceedings{zhangspargeattention,
+  title={SpargeAttention: Accurate and Training-free Sparse Attention Accelerating Any Model Inference},
+  author={Zhang, Jintao and Xiang, Chendong and Huang, Haofeng and Xi, Haocheng and Zhu, Jun and Chen, Jianfei and others},
+  booktitle={Forty-second International Conference on Machine Learning}
 }
 ```
 
