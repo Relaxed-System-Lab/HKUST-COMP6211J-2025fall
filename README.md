@@ -51,4 +51,5 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 
 
 ## Topics for Literature Review:
- - [[Presentation Paper List]](https://github.com/Relaxed-System-Lab/HKUST-COMP6211J-2025fall/blob/main/topics.md)
+ - [Presentation paper list](https://github.com/Relaxed-System-Lab/HKUST-COMP6211J-2025fall/blob/main/topics.md)
+ - [Topic allocation and schedule](https://github.com/Relaxed-System-Lab/HKUST-COMP6211J-2025fall/blob/main/topics_paper_allocation.md)
