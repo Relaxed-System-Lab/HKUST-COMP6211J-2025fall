@@ -50,6 +50,6 @@ In recent years, foundation models have fundamentally revolutionized the state-o
     - Page limits: 4 pages in NeurIPS template (excluding reference).
 
 
-## Topics for Literature Review:
+## Topics for Presentation and Literature Review:
  - [Presentation paper list](https://github.com/Relaxed-System-Lab/HKUST-COMP6211J-2025fall/blob/main/topics.md)
  - [Topic allocation and schedule](https://github.com/Relaxed-System-Lab/HKUST-COMP6211J-2025fall/blob/main/topics_paper_allocation.md)
