@@ -1,6 +1,6 @@
-# 2025 Fall COMP6211J Topics Allocation
+# 2025 Fall COMP6211J Topics Paper Allocation
 
-# Category 1.  Architecture and Network for LLM
+## Category 1.  Architecture and Network for LLM
 
 ### Topic 1. AI Chip Design.
 
@@ -35,7 +35,7 @@
     - Paper: Rdma over ethernet for distributed training at meta scale
     - Slot: Session 2-2 (2025/10/23)
 
-# Category 2. LLM Training Inference and RL Systems
+## Category 2. LLM Training Inference and RL Systems
 
 ### Topic 4. Long Context LLM Training.
 
@@ -88,7 +88,7 @@
     - Paper: AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning
     - Slot: Session 4-3 (2025/10/30)
 
-# Category 3. Algorithmic Advances for LLM
+## Category 3. Algorithmic Advances for LLM
 
 ### Topic 9. Diffusion Language Model.
 
@@ -142,7 +142,7 @@
     - Paper: Group sequence policy optimization
     - Slot: Session 7-1 (2025/11/11)
 
-# Category 4. MultiModal Foundation Model
+## Category 4. MultiModal Foundation Model
 
 ### Topic 13. Multimodal Information Modeling and Reasoning.
 
@@ -186,7 +186,7 @@
     - Paper: SpargeAttention: Accurate and Training-free Sparse Attention Accelerating Any Model Inference
     - Slot: Session 9-2 (2025/11/18)
 
-# Category 5.  LLM Agent, Evaluation and Applications
+## Category 5.  LLM Agent, Evaluation and Applications
 
 ### Topic 15. LLM for Coding.
 
