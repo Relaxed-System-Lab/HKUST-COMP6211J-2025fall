@@ -9,7 +9,7 @@
     - Paper: Meta's Second Generation AI Chip: Model-Chip Co-Design and Productionization Experiences
     - Slot: Session 1-1 (2025/10/21)
 - Group 1-2
-    - Member: LI Pengbo and Song Linkai
+    - Member: Pengbo Li and Linkai Song
     - Paper: The Sparsity-Aware LazyGPU Architecture
     - Slot: Session 1-2 (2025/10/21)
 
