@@ -20,7 +20,7 @@
     - Paper: H2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference
     - Slot: Session 1-3 (2025/10/21)
 - Group 2-2
-    - Member: Yuwei Wu and Longge Deng
+    - Member: Ruyi Song and Qi Liu
     - Paper: LIA: A Single-GPU LLM Inference Acceleration with Cooperative AMX-Enabled CPU-GPU Computation and CXL Offloading
     - Slot: Session 1-4 (2025/10/21)
 
