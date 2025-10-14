@@ -21,7 +21,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 | W4 - 09/23, 09/25  | - Tensor Model-, Sequence-, MoE- Parallelism [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP6211J-2025fall/blob/main/slides/Lecture%207%20-%20Tensor%20Model-%20MoE-%20Sequence-%20Parallelel%20Training.pdf) <br> - Generative Inference Introduction [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP6211J-2025fall/blob/main/slides/Lecture%208%20-%20Generative%20Inference%20Overview.pdf) |
 | W5 - 09/30, 10/02  | - Generative Inference Optimization [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP6211J-2025fall/blob/main/slides/Lecture%209%20-%20Generative%20Inference%20Optimization.pdf)  <br> - Prompt Engineering and Inference Scaling [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP6211J-2025fall/blob/main/slides/Lecture%2010%20-%20Prompt%20Engineering%20and%20Inference%20Scaling.pdf) |
 | W6 - 10/09         | - RAG and LLM Agent [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP6211J-2025fall/blob/main/slides/Lecture%2011%20-%20RAG%20and%20LLM%20Agent.pdf)  |
-| W7 - 10/14, 10/16  | - PEFT and RL Alignment <br> - LLM Evaluation | 
+| W7 - 10/14, 10/16  | - PEFT and RL Alignment [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP6211J-2025fall/blob/main/slides/Lecture%2012%20-%20PEFT%20and%20RL%20Alignment.pdf) <br> - LLM Evaluation | 
 | W8 - 10/21, 10/23  | - Presentation Session-1 <br> - Presentation Session-2 |
 | W9 – 10/28, 10/30  | - Presentation Session-3 <br> - Presentation Session-4 |
 | W10 - 11/04, 11/06 | - Presentation Session-5 <br> - Presentation Session-6 |
