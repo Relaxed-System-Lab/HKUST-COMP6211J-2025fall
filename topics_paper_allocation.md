@@ -121,7 +121,7 @@
 - Group 11-1
     - Member: Yejia Liu and Haoxian Liu
     - Paper: GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection
-    - Slot: Session 6-1 (2025/11/06)
+    - Slot: Session 7-2 (2025/11/11)
 - Group 11-2
     - Member: Vinayak Khurana and Eman Ansar
     - Paper: Flora: Low-Rank Adapters Are Secretly Gradient Compressors
@@ -149,7 +149,7 @@
 - Group 13-1
     - Member: Pusen Gao and Yiyao Peng
     - Paper: Qwen2. 5-vl technical report
-    - Slot: Session 7-2 (2025/11/11)
+    - Slot: Session 6-1 (2025/11/06)
 - Group 13-2
     - Member: Tse Wai Chung and Tuan An To
     - Paper: Mmada: Multimodal large diffusion language models
