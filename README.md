@@ -27,7 +27,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 | W10 - 11/04, 11/06 | - Presentation Session-5 <br> - Presentation Session-6 |
 | W11 - 11/11, 11/13 | - Presentation Session-7 <br> - Presentation Session-8 |
 | W12 - 11/18, 11/20 | - Presentation Session-9 <br> - Presentation Session-10 |
-| W13 - 11/25, 11/27 | - Presentation Session-11 <br> - Final Review |
+| W13 - 11/25, 11/27 | - Presentation Session-11 <br> - Final Review [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP6211J-2025fall/blob/main/slides/Lecture%2014%20-%20Final%20Review.pdf) |
 
 ## Grading
 
